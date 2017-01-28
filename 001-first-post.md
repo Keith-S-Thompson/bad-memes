@@ -1,5 +1,5 @@
 <!-- Title: First post -->
-<!-- URL:   http://bad-memes.blogspot.com/2017/01/first-post.html -->
+<!-- URL:   https://bad-memes.blogspot.com/2017/01/first-post.html -->
 
 Greetings to my vast army of followers.
 
